@@ -4,17 +4,11 @@
 
 ## Acesso rapido
 
-<!-- - [Acesso a analise de dados do cirio 2024](./Analise_De_Dados/README.MD)
-- [Acesso a modelagem de dados](/modelagem_banco_dados/README.md)
-- [Acesso ao projeto app flutter](/projeto/rota_religiosa/)
-- [Acesso ao planejamento](/planejamento_dev/README.md)
-- [Acesso a modelagem caso de uso](/planejamento_dev/modelagem_caso_de_uso/README.md) -->
-
-<!-- - [Acesso a analise de dados do cirio 2024]() -->
-- [Acesso a modelagem de dados]()
-- [Acesso ao projeto app flutter]()
-- [Acesso ao planejamento]()
-- [Acesso a modelagem caso de uso]()
+- [Como conttribuir o projeto](#passos-para-contribuir-com-o-projeto)
+- [Acesso ao Docs](/docs/)
+- [Acesso ao Desing](/desing/)
+- [Acesso ao front-end](/frontend/)
+- [Acesso ao back-end](/backend/)
 
 ## Sobre o Projeto
 
@@ -50,27 +44,7 @@ Agradecemos por seu interesse no **Projeto Cirio 2024**. Juntos, podemos tornar 
 
 ## Passos para contribuir com o projeto
 
-### 1. Clone o Repositório
-
-```sh
-git clone git@github.com:marco0antonio0/trabalho_extensao_projeto_cirio_2024.git
-```
-
-### 2. Alterna para branch 'mig' (migração)
-
-```sh
-git switch mig
-```
-
-### 3. Verifique se voce esta na branch correta
-
-```sh
-git branch
-```
-
-O retorno desse comando deve indicar que voce esta na branch mig, caso contrario verifique os passos anteriores
-
-### 4. Inicie uma branch task issue
+### 1. Inicie uma branch task issue
 
 Este comando ira criar uma branch task separada da mig como uma copia de tal, no comando abaixo certifique de trocar o 'numberIssue' pela numeração da task que voce esta tratando
 
@@ -78,7 +52,7 @@ Este comando ira criar uma branch task separada da mig como uma copia de tal, no
 git checkout -b issue-numbeIssue
 ```
 
-### 4. Verifique se voce esta na branch correta
+### 2. Verifique se voce esta na branch correta
 
 Finalizando os camando antes de realizar qualquer mudança verifique se esta na branch correta atravez do camando
 
@@ -96,16 +70,29 @@ O retorno deste comando deve ser issue-<'numero-da-sua-issue'>
 
 ## Colaboradores Universitarios
 
+### Fullstack
+
 - [@Marco Antonio](https://github.com/marco0antonio0)
+
+### Frontend
+
+- [@Mathias]()  
+- [@Felipe](https://github.com/FelipeMourah)
+- [@Iago]()
+- [@Mateus](https://github.com/MatheusBarbosaDeAndrade)
+- [@Jackeline]()
+- [@Tales]()
+
+### Backend
+
+- [@Pedro Gabriel Raiol Frade]()
+- [@Gabriel Henrique Pinheiro Maia]()
+- [@Arthemyo Rodrigues]()
+- [@Paulo Eduardo Melo Pereira]()
+
+### Design e documentação
+
+- [@salomão trindade]()  
 - [@Alexsandro Fernandes Nascimento](https://github.com/AlexsandroFernandesNascimento)
-- [@Jean Arthur Costa Dias](https://github.com/JeanArthurCostaDias)
-- [@Melize Tamires Porto Rocha](https://github.com/melizerocha)
-- [@Felipe Santos de Moura](https://github.com/FelipeMourah)
-- [Matheus Barbosa de Andrade](https://github.com/MatheusBarbosaDeAndrade)
-- Breno Luiz da Silva Ferreira
-- Mateus da Cunha Nunes
-- Rellan Monteiro de Freitas Junior
-- Igor Alexsandro Barbosa da Costa
-- Tales Freire Rodrigues da Costa
-- Felipe Sarmanho Neri
-- Henri Deluca Macêdo Ribeiro
+- [@Iago Weycker Viana Oliveira]()
+- [@Melize Rocha](https://github.com/melizerocha)
